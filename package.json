@@ -1,0 +1,13 @@
+{
+  "name": "shopify_test_Sammy",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js --name glove"
+  },
+  "dependencies": {
+    "graphql-request": "^7.1.0",
+    "node-fetch": "^3.0.0"
+  }
+}
